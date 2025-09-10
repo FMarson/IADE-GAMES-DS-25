@@ -1,0 +1,14 @@
+C:\Programming\IADE\IADE-GAMES-DS-25\Class-01\Overview-CS\obj\Debug\net9.0\Overview-CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\IADE\IADE-GAMES-DS-25\Class-01\Overview-CS\obj\Debug\net9.0\Overview-CS.AssemblyInfoInputs.cache
+C:\Programming\IADE\IADE-GAMES-DS-25\Class-01\Overview-CS\obj\Debug\net9.0\Overview-CS.AssemblyInfo.cs
+C:\Programming\IADE\IADE-GAMES-DS-25\Class-01\Overview-CS\obj\Debug\net9.0\Overview-CS.csproj.CoreCompileInputs.cache
+C:\Programming\IADE\IADE-GAMES-DS-25\Class-01\Overview-CS\bin\Debug\net9.0\Overview-CS.exe
+C:\Programming\IADE\IADE-GAMES-DS-25\Class-01\Overview-CS\bin\Debug\net9.0\Overview-CS.deps.json
+C:\Programming\IADE\IADE-GAMES-DS-25\Class-01\Overview-CS\bin\Debug\net9.0\Overview-CS.runtimeconfig.json
+C:\Programming\IADE\IADE-GAMES-DS-25\Class-01\Overview-CS\bin\Debug\net9.0\Overview-CS.dll
+C:\Programming\IADE\IADE-GAMES-DS-25\Class-01\Overview-CS\bin\Debug\net9.0\Overview-CS.pdb
+C:\Programming\IADE\IADE-GAMES-DS-25\Class-01\Overview-CS\obj\Debug\net9.0\Overview-CS.dll
+C:\Programming\IADE\IADE-GAMES-DS-25\Class-01\Overview-CS\obj\Debug\net9.0\refint\Overview-CS.dll
+C:\Programming\IADE\IADE-GAMES-DS-25\Class-01\Overview-CS\obj\Debug\net9.0\Overview-CS.pdb
+C:\Programming\IADE\IADE-GAMES-DS-25\Class-01\Overview-CS\obj\Debug\net9.0\Overview-CS.genruntimeconfig.cache
+C:\Programming\IADE\IADE-GAMES-DS-25\Class-01\Overview-CS\obj\Debug\net9.0\ref\Overview-CS.dll

@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overview CS", "Overview CS\Overview CS.csproj", "{CD6C497C-3B9F-40F1-9DB7-28B6D480B3D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overview-CS", "Overview-CS\Overview-CS.csproj", "{CD6C497C-3B9F-40F1-9DB7-28B6D480B3D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
