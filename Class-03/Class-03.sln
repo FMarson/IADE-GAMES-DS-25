@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{80F5E63A-3B71-43AB-A65B-D6FB7CF6361D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List - Collections", "List - Collections\List - Collections.csproj", "{A9319606-BA8C-456D-8B70-E624B36BA2CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80F5E63A-3B71-43AB-A65B-D6FB7CF6361D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F5E63A-3B71-43AB-A65B-D6FB7CF6361D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F5E63A-3B71-43AB-A65B-D6FB7CF6361D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F5E63A-3B71-43AB-A65B-D6FB7CF6361D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9319606-BA8C-456D-8B70-E624B36BA2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9319606-BA8C-456D-8B70-E624B36BA2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9319606-BA8C-456D-8B70-E624B36BA2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9319606-BA8C-456D-8B70-E624B36BA2CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
