@@ -9,6 +9,7 @@ var rnd = new Random();
 char currentPlayer = rnd.Next(2) == 0 ? 'X' : 'O';
 Console.WriteLine($"Starting player (random): {currentPlayer}");
 
+
 bool gameOver = false;
 int moves = 0;
 while (!gameOver && moves < 9)
